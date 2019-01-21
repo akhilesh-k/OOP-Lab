@@ -1,3 +1,11 @@
+/*
+Lab 01-B
+1.	Define a class to represent a bank account. Include the following members:
+Provide public member functions for each of the Input, Deposit, Withdrawal and Display
+
+Author: Akhilesh
+*/
+
 #include<iostream>
 using namespace std;
 
